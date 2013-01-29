@@ -1,0 +1,10 @@
+div.main {
+  border: 1px solid red;
+}
+
+div.main span,
+div.main a {
+  display: inline-block;
+  margin-top: 4px;
+}
+
