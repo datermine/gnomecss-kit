@@ -1,3 +1,3 @@
-/** Condition: no main function. */
+/** Condition: No main function. */
 function mayne() {
 }
